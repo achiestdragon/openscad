@@ -48,18 +48,22 @@ this means adding to the associated  lib documentation text file , as well as th
 */
 
 //proposed Default loaded Generic libs 
+
  
 //include<Generic-Parts-Lib.scad>;     //TODO :in progress
-
+//test file TODO
+//documentation file  TODO
 
 //include<Generic-Shapes-Lib.scad>;    //TODO :in progress
+//test file TODO
+//documentation file  TODO
 
-
-//include<Generic-Function-Lib.scad>;  //TODO :in progress
-
+include<Generic-Function-Lib.scad>;  //:in progress part done 
+//test file Generic-Function-Test.scad :part done 
+//documentation file  TODO
 
 include<Generic-Constants-Lib.scad>;  //v0.01a done
-//test file Ggeneric-Constant_Test.scad v0.01a done 
+//test file Generic-Constant_Test.scad v0.01a done 
 //documentation file  TODO
 
 

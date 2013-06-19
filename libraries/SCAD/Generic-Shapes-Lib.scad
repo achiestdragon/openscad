@@ -5,30 +5,7 @@
 // modules to be included in this file in alpabetical order
 //	generic extended shapes 
 //  
-// a	
-// b	
-// c 	Cone()
-// d
-// e	
-// f
-// g
-// h	Hexagon_Rod(),Hexagon_Tube()
-// i
-// j
-// k
-// l	
-// m
-// n	
-// o
-// p	Piramid()
-// q
-// r
-// s	
-// t	Torus(),Tube() 
-// u 
-// v
-// w	
-// x
-// y
-// z
 //
+include <MCAD/regular_shapes.scad>;
+include <MCAD/shapes.scad>;
+include <MCAD/fonts.scad>;

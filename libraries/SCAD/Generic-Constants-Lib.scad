@@ -24,7 +24,7 @@
 //idealy the color values should of be picked from actual colour tables 
 //rather than a close guess  
 //
-
+include <MCAD/materials.scad>
 //group math constants
 
 INCH = 25.4;
@@ -108,7 +108,7 @@ ANODIZED_Brush_Nickel =[0.8,0.8,0.7,1];
 //group METAL_<typename>
 //	discription common metal colors 
 // colors need tweaking 
-METAL_Aluminium = [0.7,0.7,0.9,1];
+METAL_Aluminium = [0.7,0.7,0.8,1];
 METAL_Brass = [0.88,0.78,0.5,1];
 METAL_Copper = [0.9,0.6,0.5,1];
 METAL_Steel = [0.9,0.9,0.8,1];

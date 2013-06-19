@@ -50,11 +50,11 @@ this means adding to the associated  lib documentation text file , as well as th
 //proposed Default loaded Generic libs 
 
  
-//include<Generic-Parts-Lib.scad>;     //TODO :in progress
+include<Generic-Parts-Lib.scad>;     //TODO :in progress
 //test file TODO
 //documentation file  TODO
 
-//include<Generic-Shapes-Lib.scad>;    //TODO :in progress
+include<Generic-Shapes-Lib.scad>;    //TODO :in progress
 //test file TODO
 //documentation file  TODO
 

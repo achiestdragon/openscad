@@ -2,7 +2,7 @@
 //
 // filename Generic-Function-Test.scad  ver 0.01a
 //
-include <Generic-Function-Lib.scad>;
+include<Generic-Lib-Main.scad>;
 //
 
 //center referance point 
